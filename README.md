@@ -10,6 +10,3 @@
 <p align="center">
 <a href="https://metallica.atabook.org/">atabook</a>
 </p>
-
-
-![me](https://www.image2url.com/r2/default/gifs/1786407589233-df895799-d3c6-43cf-86c4-4c5ff483acb5.gif)
